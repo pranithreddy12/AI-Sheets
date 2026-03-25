@@ -1,0 +1,12 @@
+[vite] connecting...
+%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold
+Cannot access 'addToast' before initialization
+Cannot access 'addToast' before initialization
+The above error occurred in the <App> component:
+
+    at App (http://localhost:5174/src/App.jsx:475:27)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+Cannot access 'addToast' before initialization
+[vite] connected.
